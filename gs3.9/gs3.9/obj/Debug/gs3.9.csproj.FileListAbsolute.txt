@@ -1,0 +1,7 @@
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\bin\Debug\gs3.9.exe.config
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\bin\Debug\gs3.9.exe
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\bin\Debug\gs3.9.pdb
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\obj\Debug\gs3.9.csprojResolveAssemblyReference.cache
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\obj\Debug\gs3.9.csproj.CoreCompileInputs.cache
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\obj\Debug\gs3.9.exe
+C:\Users\Алия Галеева\source\repos\gs3.9\gs3.9\obj\Debug\gs3.9.pdb

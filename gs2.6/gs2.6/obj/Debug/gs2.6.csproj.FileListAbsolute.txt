@@ -1,0 +1,6 @@
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\bin\Debug\gs2.6.exe.config
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\bin\Debug\gs2.6.exe
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\bin\Debug\gs2.6.pdb
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\obj\Debug\gs2.6.csproj.CoreCompileInputs.cache
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\obj\Debug\gs2.6.exe
+C:\Users\Алия Галеева\source\repos\gs2.6\gs2.6\obj\Debug\gs2.6.pdb
